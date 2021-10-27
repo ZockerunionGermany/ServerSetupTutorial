@@ -46,7 +46,7 @@ class CfgVehicles
 	
 	
 	
-	class LAG_Freshy_Jeans : Jeans_Black
+	class Your_CLassname_Freshy_Jeans : Jeans_Black
 	{
 		displayName = "Your_CLassname_Freshy_TShirt";
 		descriptionShort = "Your_CLassname_Freshy_TShirt";
@@ -60,7 +60,7 @@ class CfgVehicles
 		
 	};
 	
-	class LAG_Freshy_Radar_Cap : RadarCap_Black
+	class Your_CLassname_Freshy_Radar_Cap : RadarCap_Black
 	{
 		displayName = "Your_CLassname_Freshy_TShirt";
 		descriptionShort = "Your_CLassname_Freshy_TShirt";
