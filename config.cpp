@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class Your_ClassName
+	class LAG_Clothing
 	{
 		
 		units[]={};
@@ -29,16 +29,16 @@ class CfgVehicles
 	class Jeans_Black;
 	
 	
-	class Your_CLassname_Freshy_TShirt : TShirt_Black
+	class LAG_Freshy_TShirt : TShirt_Black
 	{
-		displayName = "Your_CLassname_Freshy_TShirt";
-		descriptionShort = "Your_CLassname_Freshy_TShirt";
+		displayName = "LAG_Freshy_TShirt";
+		descriptionShort = "LAG_Freshy_TShirt";
 		scope=2;
 		hiddenSelectionsTextures[]=
 		{
-			"Your_ClassName\data\tops\tshirt_black_co.paa",
-            "Your_ClassName\data\tops\tshirt_black_co.paa",
-            "Your_ClassName\data\tops\tshirt_black_co.paa"
+			"LAG_Clothing\data\tops\tshirt_black_co.paa",
+            "LAG_Clothing\data\tops\tshirt_black_co.paa",
+            "LAG_Clothing\data\tops\tshirt_black_co.paa"
 			
 		};
 		
@@ -46,30 +46,30 @@ class CfgVehicles
 	
 	
 	
-	class Your_CLassname_Freshy_Jeans : Jeans_Black
+	class LAG_Freshy_Jeans : Jeans_Black
 	{
-		displayName = "Your_CLassname_Freshy_TShirt";
-		descriptionShort = "Your_CLassname_Freshy_TShirt";
+		displayName = "LAG_Freshy_Jeans";
+		descriptionShort = "LAG_Freshy_Jeans";
 		scope=2;
 		hiddenSelectionsTextures[]=
 		{
-			"Your_ClassName\data\pants\jeans_black_co.paa",
-            "Your_ClassName\data\pants\jeans_black_co.paa",
-            "Your_ClassName\data\pants\jeans_black_co.paa"
+			"LAG_Clothing\data\pants\jeans_black_co.paa",
+            "LAG_Clothing\data\pants\jeans_black_co.paa",
+            "LAG_Clothing\data\pants\jeans_black_co.paa"
 		};
 		
 	};
 	
-	class Your_CLassname_Freshy_Radar_Cap : RadarCap_Black
+	class LAG_Freshy_Radar_Cap : RadarCap_Black
 	{
-		displayName = "Your_CLassname_Freshy_TShirt";
-		descriptionShort = "Your_CLassname_Freshy_TShirt";
+		displayName = "LAG_Freshy_Radar_Cap";
+		descriptionShort = "LAG_Freshy_Radar_Cap";
 		scope=2;
 		hiddenSelectionsTextures[]=
 		{
-			"Your_ClassName\data\headgear\radarcap_black_co.paa",
-            "Your_ClassName\data\headgear\radarcap_black_co.paa",
-            "Your_ClassName\data\headgear\radarcap_black_co.paa"
+			"LAG_Clothing\data\headgear\radarcap_black_co.paa",
+            "LAG_Clothing\data\headgear\radarcap_black_co.paa",
+            "LAG_Clothing\data\headgear\radarcap_black_co.paa"
 		};
 		
 	};
